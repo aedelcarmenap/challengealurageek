@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Mickey",
+      "price": "$ 10000",
+      "image": "https://pngimg.com/uploads/mickey_mouse/mickey_mouse_PNG25.png",
+      "id": "1"
+    },
+    {
+      "name": "Minnie",
+      "price": "$50000",
+      "image": "https://www.freepnglogos.com/uploads/minnie-mouse-png/minnie-mouse-party-time-png-8.png",
+      "id": "2"
+    },
+    {
+      "name": "Pluto",
+      "price": "$40000",
+      "image": "https://pngimg.com/uploads/pluto_disney/pluto_disney_PNG45.png",
+      "id": "3"
+    },
+    {
+      "id": "c998",
+      "name": "Minnie II",
+      "price": "$ 33000",
+      "image": "https://th.bing.com/th/id/OIP.laO5VghPAmoIvBnZA91yIQHaH_?rs=1&pid=ImgDetMain"
+    }
+  ]
+}
